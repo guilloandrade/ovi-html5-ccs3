@@ -1,0 +1,29 @@
+#image-top{
+	max-width: 70% !important;
+}
+header{
+	margin-top: 25px !important;
+}
+footer, .container-fluid{
+	padding-right: 5% !important;
+	padding-left: 5% !important;
+}
+#nav{
+	background-color: #B3B3B3 !important;
+}
+.nav-link.active{
+	background-color: #005883 !important;
+	color: white !important;
+}
+.nav-link{
+	color: #005883 !important;
+}
+h1, h2, h3, h4, h5, h6{
+	color: #F0B429 !important;
+}
+p{
+	color: #333333 !important;
+}
+.redes-sociales{
+	height: 50px;
+}
